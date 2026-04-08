@@ -4,7 +4,6 @@ KKEKKE PASTELERÍA
 <html lang="es">
 <head>
   <meta charset="UTF-8">
-  Compra completada
   
   <div class="box">
     🎉 ¡Compra completada!
